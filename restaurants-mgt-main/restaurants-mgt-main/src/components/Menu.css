@@ -1,0 +1,11 @@
+.card-img,
+.card-img-bottom,
+.card-img-top {
+  width: 100%;
+  height: 200px;
+}
+.col-height.col {
+  display: inline-flex;
+   margin-left: 45px; 
+  margin-top: 30px;
+}
